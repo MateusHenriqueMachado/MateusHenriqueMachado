@@ -39,6 +39,18 @@ I am passionate about technology and focused on building efficient solutions. Cu
 </div>
 
 ---
+---
+
+### 📁 Main Projects
+
+**[Interactive To-Do List](https://github.com/MateusHenriqueMachado/NOME_DO_REPOSITORIO_AQUI)**
+*A task management application built to practice modern web development concepts.*
+
+- **Technologies:** HTML5, CSS3, and Vanilla JavaScript.
+- **Key Features:** Dynamic task creation, completion toggling with visual feedback, and task deletion.
+- **Concepts Applied:** DOM Manipulation, Event Listeners, and CRUD logic.
+
+[🚀 View Demo](https://mateushenriquemachado.github.io/ToDoList/) | [💻 Source Code](https://mateushenriquemachado.github.io/ToDoList/)
 
 ### 📫 Connect with me
 
