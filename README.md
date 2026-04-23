@@ -50,7 +50,7 @@ I am passionate about technology and focused on building efficient solutions. Cu
 - **Key Features:** Dynamic task creation, completion toggling with visual feedback, and task deletion.
 - **Concepts Applied:** DOM Manipulation, Event Listeners, and CRUD logic.
 
-[🚀 View Demo](https://mateushenriquemachado.github.io/ToDoList/) | [💻 Source Code](https://mateushenriquemachado.github.io/ToDoList/)
+[🚀 View Demo](https://mateushenriquemachado.github.io/ToDoList/) | [💻 Source Code](https://github.com/mateushenriquemachado/ToDoList)
 
 ### 📫 Connect with me
 
