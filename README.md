@@ -30,7 +30,7 @@ Gosto muito de tecnologia e focado em construir soluções eficientes. Atualment
 ---
 
 ### 📁 Meus Principais Projetos
-* **[To-Do List Interativo](LINK_AQUI):** Aplicação Web com manipulação de DOM e lógica CRUD utilizando HTML, CSS e JavaScript puro.
+* **[To-Do List Interativo](https://mateushenriquemachado.github.io/ToDoList/):** Aplicação Web com manipulação de DOM e lógica CRUD utilizando HTML, CSS e JavaScript puro.
 
 ---
 
