@@ -1,40 +1,59 @@
-# Olá, me chamo Mateus! 👋
+# Olá, eu sou o Mateus! / Hi, I'm Mateus! 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Mateus%20Henrique&fontSize=70" width="100%" />
+</div>
 
-Gosto muito de tecnologia e focado em construir soluções eficientes. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento Web e aprofundar meus conhecimentos em Back-end com Python e Banco de Dados.
-
----
-
-### 🚀 Sobre mim
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (Universidade Positivo).
-- 💻 Focado em solidificar conhecimentos em **JavaScript** e **Python**.
-- 🎯 Buscando minha primeira oportunidade de estágio na área de tecnologia.
-- 📍 Curitiba, PR.
-
----
-
-### 🛠️ Minhas Tecnologias e Ferramentas
-
-<div style="display: inline-block"><br>
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mateus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  
-  <img align="center" alt="Mateus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Mateus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300vw" />
 </div>
 
 ---
 
-### 📁 Meus Principais Projetos
-* **[To-Do List Interativo](https://mateushenriquemachado.github.io/ToDoList/):** Aplicação Web com manipulação de DOM e lógica CRUD utilizando HTML, CSS e JavaScript puro.
+### 🇧🇷 Sobre mim
+Estudante de Análise e Desenvolvimento de Sistemas focado em criar soluções eficientes e aprender novas tecnologias todos os dias.
+
+### 🇺🇸 About me
+Systems Analysis and Development student focused on creating efficient solutions and learning new technologies every day.
 
 ---
 
-### 📫 Como falar comigo
+### 🛠️ Minhas Tecnologias / My Tech Stack
 
-<a href="mailto:mateushmgds@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mateus-henrique-machado-galdino-da-silva-59a769250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 Minhas Estatísticas / My Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical" />
+</div>
+
+---
+
+### 📫 Conecte-se comigo / Connect with me
+
+<div align="left">
+  <a href="mailto:mateushmgds@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mateus-henrique-machado-galdino-da-silva-59a769250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
