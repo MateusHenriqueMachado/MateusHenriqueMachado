@@ -1,24 +1,23 @@
-# Olá, eu sou o Mateus! / Hi, I'm Mateus! 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Mateus%20Henrique&fontSize=70" width="100%" />
+  <h1>Hi there, I'm Mateus! 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Systems+Analysis+and+Development+Student;Aspiring+Software+Developer;Focused+on+Python+and+Web" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300vw" />
-</div>
+<br/>
+
+### 👨‍💻 About me
+I am passionate about technology and focused on building efficient solutions. Currently, I am improving my Web development skills and deepening my Back-end knowledge with Python and Databases.
+
+- 🎓 Studying Systems Analysis and Development (Universidade Positivo).
+- 💻 Focused on solidifying knowledge in **JavaScript** and **Python**.
+- 🎯 Looking for my first internship opportunity in the tech industry.
+- 📍 Curitiba, PR - Brazil.
 
 ---
 
-### 🇧🇷 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas focado em criar soluções eficientes e aprender novas tecnologias todos os dias.
-
-### 🇺🇸 About me
-Systems Analysis and Development student focused on creating efficient solutions and learning new technologies every day.
-
----
-
-### 🛠️ Minhas Tecnologias / My Tech Stack
+### 🛠️ My Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,7 +31,7 @@ Systems Analysis and Development student focused on creating efficient solutions
 
 ---
 
-### 📊 Minhas Estatísticas / My Stats
+### 📊 My GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusHenriqueMachado&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -41,7 +40,7 @@ Systems Analysis and Development student focused on creating efficient solutions
 
 ---
 
-### 📫 Conecte-se comigo / Connect with me
+### 📫 Connect with me
 
 <div align="left">
   <a href="mailto:mateushmgds@gmail.com">
@@ -50,10 +49,4 @@ Systems Analysis and Development student focused on creating efficient solutions
   <a href="https://www.linkedin.com/in/mateus-henrique-machado-galdino-da-silva-59a769250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
