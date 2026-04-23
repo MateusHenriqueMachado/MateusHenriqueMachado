@@ -43,7 +43,7 @@ I am passionate about technology and focused on building efficient solutions. Cu
 
 ### 📁 Main Projects
 
-**[Interactive To-Do List](https://github.com/MateusHenriqueMachado/NOME_DO_REPOSITORIO_AQUI)**
+**[Interactive To-Do List](https://mateushenriquemachado.github.io/ToDoList/)**
 *A task management application built to practice modern web development concepts.*
 
 - **Technologies:** HTML5, CSS3, and Vanilla JavaScript.
@@ -51,6 +51,11 @@ I am passionate about technology and focused on building efficient solutions. Cu
 - **Concepts Applied:** DOM Manipulation, Event Listeners, and CRUD logic.
 
 [🚀 View Demo](https://mateushenriquemachado.github.io/ToDoList/) | [💻 Source Code](https://github.com/mateushenriquemachado/ToDoList)
+
+* **[Tech Hardware E-commerce](https://mateushenriquemachado.github.io/mini-ecommerce/):** A functional mini e-commerce with a product grid and shopping cart system.
+  - **Technologies:** HTML5, CSS3, JavaScript.
+  - **Key Features:** LocalStorage persistence, dynamic cart calculation, and responsive design.
+  - [🚀 View Demo](https://mateushenriquemachado.github.io/mini-ecommerce/) | [💻 Source Code](https://github.com/MateusHenriqueMachado/mini-ecommerce)
 
 ### 📫 Connect with me
 
